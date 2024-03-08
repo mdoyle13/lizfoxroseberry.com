@@ -89,6 +89,8 @@ textarea:not([rows]) {
 }
 
 body {
+  background: #f6f6f4;
+  font-family: "Times New Roman", Times, serif;
 }
 
 #wrapper {
@@ -106,6 +108,5 @@ body {
 }
 
 #mc_embed_signup {
-  border-radius: 1em;
-  border: 1px solid gray;
+  padding-bottom: 0.5rem;
 }
