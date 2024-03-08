@@ -91,6 +91,7 @@ textarea:not([rows]) {
 body {
   background: #f6f6f4;
   font-family: "Times New Roman", Times, serif;
+  padding-bottom: 4rem;
 }
 
 #wrapper {
@@ -109,4 +110,16 @@ body {
 
 #mc_embed_signup {
   padding-bottom: 0.5rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+#shop-link a {
+  display: block;
+  font-size: 1.25rem;
+  margin: 0.5rem;
+}
+
+#mc_embed_signup .mc-field-group {
+  width: 100% !important;
 }
