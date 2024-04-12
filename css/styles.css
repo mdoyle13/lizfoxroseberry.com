@@ -124,3 +124,7 @@ body {
 #mc_embed_signup .mc-field-group {
   width: 100% !important;
 }
+
+#terms {
+  max-width: 700px;
+}
