@@ -106,6 +106,7 @@ body {
 
 #mailchimp-form {
   margin-top: 1rem;
+  max-width: 600px;
 }
 
 #mc_embed_signup {
